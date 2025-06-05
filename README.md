@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a long background of hobbyist building and tech sales.<br>I have always been madly in love with gadgetry and tech.<br><br>I'm currently focused on mastering some in-demand tools:<br>Next.js<br>React<br>Node.js<br>w/ various CSS frameworks<br>SQL<br>MongoDB
+I have a long background of hobbyist building and tech sales.<br>After spending some time doing marketing for small tech companies, my love for development was rekindled. Let's build something cool.<br><br>My current weapons of choice are:<br>Typescript<br>Next.js<br>React<br>Node.js<br>Tailwind-CSS<br>SQL
 
 
 ## 🌐 Socials:
