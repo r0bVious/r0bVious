@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am currently working on a remote team doing mostly front-end work and locally in Seoul, Korea as a full-stack developer for a start-up!<br>
 I have a long background of hobbyist building and tech sales.<br>After spending some time doing marketing for small tech companies, my love for development was rekindled. Let's build something cool.<br><br>My current weapons of choice are:<br>Typescript<br>Next.js<br>React<br>Node.js<br>Tailwind-CSS<br>SQL
 
 
